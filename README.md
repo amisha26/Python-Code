@@ -1,4 +1,4 @@
-### Some useful python code snippet of Data Strutures and Algorithms.
+## Some useful python code snippet of Data Strutures and Algorithms.
 
 
 |  #  | Files                                                                                                  | Repo Path                                |
