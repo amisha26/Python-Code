@@ -10,3 +10,12 @@
 | 05  | Sorting  | [Click here](https://github.com/amisha26/Python-Code-Snippet/blob/master/Codes/sorting.py) |
 | 06  | Queue  | [Click here](https://github.com/amisha26/Python-Code-Snippet/blob/master/Codes/queue.py) |
 | 07  | Stack  | [Click here](https://github.com/amisha26/Python-Code-Snippet/blob/master/Codes/stack.py) |
+
+
+## To Learn More About DS / Algo :-
+
+* [Leetcode](https://leetcode.com/problemset/all/)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+* [CodeForces](https://codeforces.com/problemset)
+
+### HAPPY CODING  ✌️
